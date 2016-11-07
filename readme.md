@@ -51,7 +51,7 @@ _*JS*_
 > [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 _*Git*_
-> [Git Flow](http://danielkummer.github.io/git-flow-cheatsheet/)
+> [Git Flow](http://danielkummer.github.io/git-flow-cheatsheet/) *
 
 _*Other*_
 > [Can I Use](http://caniuse.com/)
