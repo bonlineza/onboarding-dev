@@ -31,17 +31,17 @@ This is a compiled list of resources which will be beneficial to any devs joinin
 > Get comfy with [JavaScript Inheritance](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.hzjdr8qfq)
 
 #### Additional Resources
-*_CSS_* 
+_*CSS*_
 > [MDN CSS References](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 > [SASS Documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
 > [Angular Material](https://material.angularjs.org/1.1.0-rc4/)
 
-*_PHP_*
+_*PHP*_
 > [PHP Manual](http://php.net/manual/en/index.php)
 
-*_JS_*
+_*JS*_
 > [MDN Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 > [AngularJs](https://docs.angularjs.org/guide)
@@ -50,7 +50,10 @@ This is a compiled list of resources which will be beneficial to any devs joinin
 
 > [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-*_Other_*
+_*Git*_
+> [Git Flow](http://danielkummer.github.io/git-flow-cheatsheet/)
+
+_*Other*_
 > [Can I Use](http://caniuse.com/)
 
 > [Stack Overflow](http://stackoverflow.com/)
