@@ -2,7 +2,7 @@
 
 This is a compiled list of resources which will be beneficial to any devs joining the BOnline dev team.
 
-`*` are used to indicate that the resource is highly suggested/required.
+`*` is used to indicate that the resource is highly suggested/required.
 
 ### Recommended Courses to Complete
 
