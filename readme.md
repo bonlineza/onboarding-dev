@@ -1,4 +1,4 @@
-# BonlineZA Onboarding Doc
+# BOnline Onboarding Doc
 
 This is a compiled list of resources which will be beneficial to any devs joining the BOnline dev team.
 
