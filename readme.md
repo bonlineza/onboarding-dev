@@ -57,3 +57,7 @@ _*Other*_
 > [Can I Use](http://caniuse.com/)
 
 > [Stack Overflow](http://stackoverflow.com/)
+
+## Helpful Links
+***Setting Up Composer on OSX***
+https://www.abeautifulsite.net/installing-composer-on-os-x
