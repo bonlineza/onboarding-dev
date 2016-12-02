@@ -1,5 +1,18 @@
 # BOnline Onboarding Doc
 
+### Useful Resources
+
+#### Settings up public key on your sever
+```
+# create .ssh/authorized_keys on your server if it isn't already there
+
+cat ~/.ssh/id_rsa.pub | ssh your_user@the_hostname 'cat >> .ssh/authorized_keys'
+```
+
+Check out [github's awesome guide on how to generate ssh keys](https://help.github.com/articles/generating-an-ssh-key/)
+
+
+
 This is a compiled list of resources which will be beneficial to any devs joining the BOnline dev team.
 
 `*` is used to indicate that the resource is highly suggested/required.
