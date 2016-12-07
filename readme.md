@@ -27,6 +27,13 @@ This is a compiled list of resources which will be beneficial to any devs joinin
 
 `*` is used to indicate that the resource is highly suggested/required.
 
+#### Editor Config
+We use [EditorConfig](http://editorconfig.org/) to maintain stylistic consisitency between devs.
+
+Here's [a guide](https://github.com/sindresorhus/editorconfig-sublime) to setup editor config for sublime.
+
+If you aren't using sublime as your editor of choice it'll be your responsibility to get editor config working for your editor.
+
 ### Recommended Courses to Complete
 
 > Complete [Codecademy's JavaScript Course](https://www.codecademy.com/learn/javascript) *
