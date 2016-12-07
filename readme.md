@@ -11,7 +11,17 @@ cat ~/.ssh/id_rsa.pub | ssh your_user@the_hostname 'cat >> .ssh/authorized_keys'
 
 Check out [github's awesome guide on how to generate ssh keys](https://help.github.com/articles/generating-an-ssh-key/)
 
+#### Installing Node
+We recommend setting up your node using https://github.com/tj/n .
 
+It's an awesome way to maintain different node versions on your system and allows you to do cool stuff like this...
+
+```
+n         # opens up cli tool to select node version
+n 5.9.4   # install this version of node and switch to it
+n 7.2.0   # install this version of node and switch to it
+n 5.9.4   # switch your node to use this version of node.
+```
 
 This is a compiled list of resources which will be beneficial to any devs joining the BOnline dev team.
 
